@@ -1,7 +1,6 @@
 {
   "name": "hmregister",
   "version": "1.0.0",
-  "description": "",
   "main": "register.js",
   "dependencies": {},
   "devDependencies": {
@@ -15,13 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/niedan123/register.git"
+    "url": "git+https://github.com/niedan123/register1.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/niedan123/register/issues"
+    "url": "https://github.com/niedan123/register1/issues"
   },
-  "homepage": "https://github.com/niedan123/register#readme"
+  "homepage": "https://github.com/niedan123/register1#readme",
+  "description": ""
 }
